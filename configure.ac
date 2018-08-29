@@ -109,6 +109,4 @@ fi
 
 builtin([include],[src/configure.incl])
 
-AC_C_ATTRIBUTE_ALIGNED
-
 AC_OUTPUT
